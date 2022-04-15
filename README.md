@@ -1,5 +1,5 @@
-# Hi! I'm Jeff
+# Hi! I'm Jeff.
 
-### My background is in agricultural research, and I'm interested in using technology to advance science.
+### My background is mainly in agricultural research, with some experience in atmospheric science and Internet of Things domains as well.
 
-### At the moment, I'm learning Javascript, D3, and VueJs for the purpose of creating interactive plots on the web.
+### At the moment, I'm learning NodeJS, VueJS, and D3 for the purpose of creating interactive plots on the web.
